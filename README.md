@@ -17,7 +17,7 @@ This analysis helps businesses reduce churn by targeting high-rick customers wit
 
 ![Customer Churn Dashboard](/dashboard/customer-churn-dashboard.png)
 
-## Link
+## 🔗 Link
 [Customer Churn Dashboard on Tableau](https://public.tableau.com/views/CustomerChurn_17757722621810/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Author
