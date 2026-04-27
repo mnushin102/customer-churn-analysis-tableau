@@ -13,7 +13,7 @@ Analyzed customer churn behavior and identified key drivers impacting retention
 * New customers (0-12 months) are at greater risk
 
 ## 👔 Business Impact 
-This analysis helps businesses reduce churn by targeting high-rick customers with retention strategies such as pricing adjustments or contract incentives
+This analysis helps businesses reduce churn by targeting high-risk customers with retention strategies such as pricing adjustments or contract incentives
 
 ![Customer Churn Dashboard](/dashboard/customer-churn-dashboard.png)
 
